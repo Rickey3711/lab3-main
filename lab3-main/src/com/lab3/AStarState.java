@@ -3,13 +3,7 @@ package com.lab3;
 import java.util.HashMap;
 import java.util.Iterator;
 
-/**
- * This class stores the basic state necessary for the A* algorithm to compute a
- * path across a map.  This state includes a collection of "open waypoints" and
- * another collection of "closed waypoints."  In addition, this class provides
- * the basic operations that the A* pathfinding algorithm needs to perform its
- * processing.
- **/
+
 public class AStarState
 {
     /** This is a reference to the map that the A* algorithm is navigating. **/
