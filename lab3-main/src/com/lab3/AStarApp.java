@@ -5,13 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-/**
- * A simple Swing application to demonstrate the A* pathfinding algorithm.  The
- * user is presented with a map, containing a start and end location.  The user
- * can draw or clear obstacles on the map, and then press a button to compute a
- * path from start to end using the A* pathfinding algorithm.  If a path is
- * found, it is displayed in green.
- **/
+
 public class AStarApp {
 
     /** The number of grid cells in the X direction. **/
