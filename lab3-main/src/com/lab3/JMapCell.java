@@ -4,11 +4,7 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.*;
 
-/**
- * This class is a custom Swing component for representing a single map cell in
- * a 2D map.  The cell has several different kinds of state, but the most basic
- * state is whether the cell is passable or not.
- */
+
 public class JMapCell extends JComponent
 {
     private static final Dimension CELL_SIZE = new Dimension(12, 12);
