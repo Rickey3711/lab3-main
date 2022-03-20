@@ -4,12 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 
-/**
- * This class contains the implementation of the A* pathfinding algorithm.  The
- * algorithm is implemented as a static method, since the pathfinding algorithm
- * really doesn't need to maintain any state between invocations of the
- * algorithm.
- */
+
 public class AStarPathfinder
 {
     /**
